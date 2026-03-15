@@ -3,13 +3,13 @@
 # Hi there 👋 I'm Janith Rathnayake
 
 🎓 Computer Science student  
-📊 Interested in Mathematics, Physics, and Programming  
+📊 Interested in Mathematics, Physics,Programming & Artificial Intelligence 
 💻 Passionate about learning algorithms, problem solving, and building projects  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Computer Science
+- 🎓 Studying Computer Science 
 - 📚 Minor subjects: Applied Mathematics & Physics
 - 🔍 Interested in algorithms, data structures, and computational problems
 - 🧠 Always learning new technologies and improving coding skills
@@ -37,8 +37,9 @@
 - Advanced algorithms
 - Data science concepts
 - Mathematical modeling
-- Artificial Intelligence i
+- Artificial Intelligence 
 - Networking
+- Software Engineering
 
 ---
 
