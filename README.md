@@ -2,6 +2,9 @@
 
 # Hi there 👋 I'm Janith Rathnayake
 
+#My personal Website  🚀http://jdr.kesug.com
+
+
 🎓 Computer Science student  
 📊 Interested in Mathematics, Physics,Programming & Artificial Intelligence 
 💻 Passionate about learning algorithms, problem solving, and building projects  
