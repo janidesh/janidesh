@@ -11,10 +11,10 @@
 </p>
 
 #My personal Website  🚀http://jdr.kesug.com
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
 </p>
+
 
 🎓 Computer Science student  
 📊 Interested in Mathematics, Physics,Programming & Artificial Intelligence 
