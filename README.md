@@ -11,9 +11,8 @@
 </p>
 
 #My personal Website  🚀http://jdr.kesug.com
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
 
 🎓 Computer Science student  
