@@ -12,17 +12,10 @@
 
 #My personal Website  🚀http://jdr.kesug.com
 
-<h1 align="center">
-  Hi there 👋 I'm Jani
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=FF00FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Enthusiast;Media+Player+Builder">
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
+
 🎓 Computer Science student  
 📊 Interested in Mathematics, Physics,Programming & Artificial Intelligence 
 💻 Passionate about learning algorithms, problem solving, and building projects  
