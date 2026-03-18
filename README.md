@@ -60,31 +60,55 @@
 <a href="https://linkedin.com/in/janith rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith rathnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/janidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidesh" height="30" width="40" /></a>
 </p>
-<!-- Typing -->
+<!-- MATRIX HEADER -->
+<h1 align="center">
+  Hi there 👋 I'm Jani
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=Hacker+Mode+Activated;AI+Developer;Python+Builder">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hacker+Mode+Activated;AI+Developer;Python+Engineer;Building+Cool+Stuff">
 </p>
 
-<!-- Stats -->
+<!-- MATRIX GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600">
 </p>
 
-<!-- Streak -->
+---
+
+<!-- STATS -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=janidesh&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </p>
 
-<!-- Languages -->
+<!-- STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00">
 </p>
 
-<!-- Skills -->
+<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,git,github">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidesh&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00">
 </p>
 
+<!-- SKILLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode">
+</p>
+
+---
+
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janidesh&theme=matrix&no-frame=true&no-bg=true&margin-w=10">
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
+</p>
 
 
 
