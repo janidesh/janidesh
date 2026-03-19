@@ -60,19 +60,12 @@
 <a href="https://linkedin.com/in/janith rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith rathnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/janidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidesh" height="30" width="40" /></a>
 </p>
-<!-- MATRIX HEADER -->
-<h1 align="center">
-  Hi there 👋 I'm Jani
-</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hacker+Mode+Activated;AI+Developer;Python+Engineer;Building+Cool+Stuff">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Software;AI+Developer;Python;Building+Cool+Stuff">
 </p>
 
-<!-- MATRIX GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600">
-</p>
 
 ---
 
