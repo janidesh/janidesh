@@ -91,7 +91,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janidesh&theme=matrix&no-frame=true&no-bg=true&row=1&column=6">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
 </p>
 
 ---
