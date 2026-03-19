@@ -2,7 +2,6 @@
 
 <h1 align="center">
   Hi there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   I'm Janith Rathnayake
 </h1>
 
@@ -84,11 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidesh&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00">
 </p>
 
-<!-- SKILLS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode">
-</p>
+<h3 align="center">⚡ Tech Stack</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,androidstudio">
+</p>
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
