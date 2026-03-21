@@ -1,105 +1,85 @@
-
-
 <h1 align="center">
-  Hi there 
-  I'm Janith Rathnayake
+  Hi there, I'm Janith Rathnayake 👋
 </h1>
 
-<p align="center">
+<h3 align="center">
   🚀 Software Developer | 💻 CS Student | 🤖 AI Enthusiast
-</p>
+</h3>
 
-#My personal Website  🚀http://jdr.kesug.com
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+  <a href="http://jdr.kesug.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00&edge_badge=false" alt="Personal Website" />
+  </a>
 </p>
 
-🎓 Computer Science student  
-📊 Interested in Mathematics, Physics,Programming & Artificial Intelligence 
-💻 Passionate about learning algorithms, problem solving, and building projects  
+<p align="center">
+  <a href="https://linkedin.com/in/janith rathnayake" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/janidesh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/janidesh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineering;Artificial+Intelligence;Mathematical+Modeling;Building+Cool+Stuff" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Computer Science 
-- 📚 Minor subjects: Applied Mathematics & Physics
-- 🔍 Interested in algorithms, data structures, and computational problems
-- 🧠 Always learning new technologies and improving coding skills
+
+I am a Computer Science student with a strong passion for algorithms, problem-solving, and building impactful projects. With minor focuses in Applied Mathematics and Physics, I enjoy bridging the gap between complex theoretical concepts and practical software development.
+
+* 🎓 **Studying:** Computer Science (Minors: Applied Mathematics & Physics)
+* 🌱 **Currently Learning:** Advanced Algorithms, Data Science, Mathematical Modeling, AI, and Networking.
+* 📂 **What I Build:** Algorithm implementations, math/physics experiments, and AI tools.
 
 ---
 
-## 🛠️ Skills
-- Programming: Python, C++, Java 
-- Mathematics & Problem Solving
-- Basic Electronics & Circuit Analysis
-- Git & Version Control
-- Ai Projects ,Video creation,Advertising
-
----
-
-## 📂 What You'll Find Here
-- Programming projects
-- Algorithm implementations
-- Math and physics related experiments
-- Learning projects and coursework
-
----
-
-## 🌱 Currently Learning
-- Advanced algorithms
-- Data science concepts
-- Mathematical modeling
-- Artificial Intelligence 
-- Networking
-- Software Engineering
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/janith rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith rathnayake" height="30" width="40" /></a>
-<a href="https://instagram.com/janidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidesh" height="30" width="40" /></a>
-</p>
-
+<h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Software;AI+Developer;Python;Building+Cool+Stuff">
-</p>
-
-
----
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janidesh&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
-</p>
-
-<!-- STREAK -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00">
-</p>
-
-<!-- LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidesh&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00">
-</p>
-
-<h3 align="center">⚡ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,androidstudio">
-</p>
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio" alt="Tech Stack" />
 </p>
 
 ---
 
-<!-- FOOTER -->
+<h2 align="center">🏆 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=janidesh&theme=matrix&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=janidesh&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidesh&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" width="48%" />
 
+</div>
 
-⭐ Always exploring, learning, and building.
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janidesh&label=Profile%20Views&color=00FF00&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <em>⭐ Always exploring, learning, and building.</em>
+</p>
