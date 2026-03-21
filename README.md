@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="http://jdr.kesug.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00&edge_badge=false" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/🌐_jdr.kesug.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00&edge_badge=false" alt="Janith's Portfolio Website" />
   </a>
 </p>
 
@@ -43,25 +43,29 @@ I am a Computer Science student with a strong passion for algorithms, problem-so
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp,java,js,html,css,git,github,vscode,androidstudio" alt="Tech Stack" />
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=janidesh&theme=matrix&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=janidesh&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidesh&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Stars_Earned-4-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total_PRs-1-00FF00?style=for-the-badge&logo=git&logoColor=white" alt="Total PRs" />
 
 </div>
+
+<br/>
+
+<h3 align="center">🔥 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
 <br/>
 
