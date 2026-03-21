@@ -28,7 +28,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 
 * **🤖 Artificial Intelligence:** Implementing machine learning models and computational intelligence.
 * **🎮 Game Engineering:** Specialized in high-fidelity development using **Unreal Engine 5**, **Unity**, and **Godot**.
-* **📱 Mobile Architecture:** Developing robust Android applications leveraging **Kotlin** and **Java**.
+* **📱 Android & Windows Architecture:** Developing robust Android & Windows applications leveraging **Kotlin** ,**python** and **Java**.
 * **🌐 Web Systems:** Designing responsive, data-driven web interfaces with modern design principles.
 
 ---
