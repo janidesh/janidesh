@@ -1,85 +1,83 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Janith+Rathnayake;Software+Developer;Hacking+the+future...;AI+%26+Game+Dev+Enthusiast" alt="Hacker Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&color=00FF00&center=true&vCenter=true&width=600&lines=Janith+Rathnayake;Software+Engineer;AI+%26+Game+Developer" alt="Janith Rathnayake" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Hacker Matrix">
+  <strong>Computer Science Student | Applied Mathematics & Physics</strong>
 </p>
 
 <p align="center">
   <a href="http://jdr.kesug.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_jdr.kesug.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-jdr.kesug.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/janith rathnayake" target="_blank">
+  <a href="https://linkedin.com/in/janith-rathnayake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/janidesh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://instagram.com/janidesh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-* 🎓 **Computer Science Student** | Applied Mathematics & Physics
-* 🧠 **AI Enthusiast:** Building neural networks and smart automation.
-* 🎮 **Game Developer:** Crafting worlds in **Unreal Engine 5**, **Unity**, and **Godot**.
-* 📱 **Android Dev:** Creating seamless mobile experiences with **Kotlin** & **Java**.
-* 🎨 **Web Design:** Designing modern, responsive, and high-performance interfaces.
+### 📋 Professional Profile
+I am a dedicated Computer Science student with a rigorous focus on the intersection of **Applied Mathematics** and **Software Engineering**. My work revolves around building scalable applications, immersive digital environments, and intelligent systems.
+
+* **🤖 Artificial Intelligence:** Implementing machine learning models and computational intelligence.
+* **🎮 Game Engineering:** Specialized in high-fidelity development using **Unreal Engine 5**, **Unity**, and **Godot**.
+* **📱 Mobile Architecture:** Developing robust Android applications leveraging **Kotlin** and **Java**.
+* **🌐 Web Systems:** Designing responsive, data-driven web interfaces with modern design principles.
 
 ---
 
-<h2 align="center">📊 Achievement Milestones</h2>
+<h2 align="center">📈 Professional Milestones</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Followers-500-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
-  <img src="https://img.shields.io/badge/Contributions-56-00FF00?style=for-the-badge&logo=git&logoColor=black" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Forks-20-00FF00?style=for-the-badge&logo=github-sponsors&logoColor=black" alt="Forks" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Total_Stars_Earned-4-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/Total_PRs-1-00FF00?style=for-the-badge&logo=git&logoColor=white" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/Followers-500-00FF00?style=flat-square&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-56-00FF00?style=flat-square&logo=git&logoColor=black" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Forks-20-00FF00?style=flat-square&logo=github-sponsors&logoColor=black" alt="Forks" />
+  <img src="https://img.shields.io/badge/Stars-4-FFD700?style=flat-square&logo=github&logoColor=black" alt="Stars" />
 </div>
 
 <br/>
 
-<h3 align="center">🔥 Primary Languages</h3>
+<h3 align="center">🛠️ Technical Ecosystem</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot" alt="Tech Stack" />
+</p>
+
+<h3 align="center">🚀 Core Competencies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot">
-</p>
-
----
-
-<h2 align="center">📂 GitHub Activity</h2>
+<h2 align="center">📊 Development Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%">
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janidesh&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="48%">
   <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%">
-</p>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janidesh&label=SYSTEM%20ACCESSES&color=00FF00&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=janidesh&label=PROFILE%20VIEWS&color=00FF00&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square" alt="Status" />
 </p>
 
 <p align="center">
-  <em>⭐ Always exploring, learning, and building.</em>
+  <em>Refining the future through code and logic.</em>
 </p>
