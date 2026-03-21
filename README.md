@@ -35,7 +35,7 @@
 I am a Computer Science student with a strong passion for algorithms, problem-solving, and building impactful projects. With minor focuses in Applied Mathematics and Physics, I enjoy bridging the gap between complex theoretical concepts and practical software development.
 
 * 🎓 **Studying:** Computer Science (Minors: Applied Mathematics & Physics)
-* 🌱 **Currently Learning:** Advanced Algorithms, Data Science, Mathematical Modeling, AI, and Networking.
+* 🌱 **Currently Learning:** Advanced Algorithms, Data Science, AI, and Networking.
 * 📂 **What I Build:** Algorithm implementations, math/physics experiments, and AI tools.
 
 ---
@@ -48,7 +48,15 @@ I am a Computer Science student with a strong passion for algorithms, problem-so
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 Achievement Milestones</h2>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Followers-500-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-56-00FF00?style=for-the-badge&logo=git&logoColor=black" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Forks-20-00FF00?style=for-the-badge&logo=github-sponsors&logoColor=black" alt="Forks" />
+
+</div>
 
 <div align="center">
   
@@ -59,22 +67,30 @@ I am a Computer Science student with a strong passion for algorithms, problem-so
 
 <br/>
 
-<h3 align="center">🔥 Most Used Languages</h3>
+<h3 align="center">🔥 Primary Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidesh&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=janidesh&theme=black-ice&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Current Projects</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janidesh&repo=3D-Missile-Defense-Simulation&theme=vision-friendly-dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Project Pin" />
 </p>
 
 ---
