@@ -36,7 +36,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 <h2 align="center">📈 Professional Milestones</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Followers-500-00FF00?style=flat-square&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Followers-421-00FF00?style=flat-square&logo=github&logoColor=black" alt="Followers" />
   <img src="https://img.shields.io/badge/Contributions-56-00FF00?style=flat-square&logo=git&logoColor=black" alt="Contributions" />
   <img src="https://img.shields.io/badge/Forks-20-00FF00?style=flat-square&logo=github-sponsors&logoColor=black" alt="Forks" />
   <img src="https://img.shields.io/badge/Stars-4-FFD700?style=flat-square&logo=github&logoColor=black" alt="Stars" />
