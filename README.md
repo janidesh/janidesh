@@ -47,7 +47,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 <h3 align="center">🛠️ Technical Ecosystem</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot,Mysql" alt="Tech Stack" />
 </p>
 
 <h3 align="center">🚀 Core Competencies</h3>
