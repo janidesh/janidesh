@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&color=00FF00&center=true&vCenter=true&width=600&lines=Janith+Rathnayake;Software+Engineer;AI+%26+Game+Developer" alt="Janith Rathnayake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&color=00FF00&center=true&vCenter=true&width=600&lines=Janith+Rathnayake;Software+Engineering;AI+%26+Game+Developing" alt="Janith Rathnayake" />
 </h1>
 
 <p align="center">
