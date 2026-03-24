@@ -84,10 +84,10 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 
 <p align="center">
   <a href="https://github.com/janidesh">
-    <img src="https://komarev.com/ghpvc/?username=janidesh&label=PROFILE%20VIEWS&color=00FF00&style=for-the-badge" alt="Views Tile" />
+    <img src="https://komarev.com/ghpvc/?username=janidesh&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&logo=github&logoColor=black" alt="Views Tile" />
   </a>
   <a href="https://github.com/janidesh">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=git&logoColor=black" alt="Status Tile" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=powershell&logoColor=black" alt="Status Tile" />
   </a>
 </p>
 
