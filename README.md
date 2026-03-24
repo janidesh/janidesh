@@ -21,7 +21,7 @@
   </a>
 </p>
 
-### I Can build customized Apps just for you ......
+### I Can build customized Android/Windows Apps just for you ......
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=1200&h=350" alt="Software Development Banner" width="100%" style="border-radius: 12px; border: 1px solid #10b981;" />
@@ -36,6 +36,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 * **🎮 Game Engineering:** Specialized in high-fidelity development using **Unreal Engine 5**, **Unity**, and **Godot**.
 * **📱 Android & Windows Architecture:** Developing robust Android & Windows applications leveraging **Kotlin**, **Python**, and **Java**.
 * **🌐 Web Systems:** Designing responsive, data-driven web interfaces with modern design principles.
+* **🛠️ Freelancer :** Works at fiverr & Upwork
 
 ---
 
