@@ -36,6 +36,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 * **🎮 Game Engineering:** Specialized in high-fidelity development using **Unreal Engine 5**, **Unity**, and **Godot**.
 * **📱 Android & Windows Architecture:** Developing robust Android & Windows applications leveraging **Kotlin**, **Python**, and **Java**.
 * **🌐 Web Systems:** Designing responsive, data-driven web interfaces with modern design principles.
+* **🛠️ Freelancer:** Active at Fiverr & Upwork
 
 ---
 
@@ -53,7 +54,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 <h3 align="center">🛠️ Technical Ecosystem</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot,sql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,git,github,vscode,androidstudio,unreal,unity,godot,mysql" alt="Tech Stack" />
 </p>
 
 <h3 align="center">🚀 Core Competencies</h3>
