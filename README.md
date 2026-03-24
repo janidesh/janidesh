@@ -21,9 +21,7 @@
   </a>
 </p>
 
-<h3 align="center">
-  <span style="color: #00FF00;">I Can build customized Android/Windows Apps just for you ......</span>
-</h3>
+### I Can build customized Apps just for you ......
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=1200&h=350" alt="Software Development Banner" width="100%" style="border-radius: 12px; border: 1px solid #10b981;" />
@@ -38,7 +36,6 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 * **🎮 Game Engineering:** Specialized in high-fidelity development using **Unreal Engine 5**, **Unity**, and **Godot**.
 * **📱 Android & Windows Architecture:** Developing robust Android & Windows applications leveraging **Kotlin**, **Python**, and **Java**.
 * **🌐 Web Systems:** Designing responsive, data-driven web interfaces with modern design principles.
-* **🛠️ Freelancer:** Active on Fiverr & Upwork.
 
 ---
 
@@ -56,7 +53,7 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 <h3 align="center">🛠️ Technical Ecosystem</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,html,css,git,github,vscode,androidstudio,unreal,unity,godot,sql" alt="Tech Stack" />
 </p>
 
 <h3 align="center">🚀 Core Competencies</h3>
@@ -83,12 +80,8 @@ I am a dedicated Computer Science student with a rigorous focus on the intersect
 ---
 
 <p align="center">
-  <a href="https://github.com/janidesh">
-    <img src="https://komarev.com/ghpvc/?username=janidesh&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&logo=github&logoColor=black" alt="Views Tile" />
-  </a>
-  <a href="https://github.com/janidesh">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=powershell&logoColor=black" alt="Status Tile" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=janidesh&label=PROFILE%20VIEWS&color=00FF00&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square" alt="Status" />
 </p>
 
 <p align="center">
