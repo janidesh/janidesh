@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="http://jdr.kesug.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jdr.kesug.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
+  <a href="https://janidesh.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-janidesh.pages.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/janith-rathnayake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,7 @@
 </p>
 
 
-  ### I Can build customized Android/Windows Apps just for you ......
+ ### I Can build customized Android/Windows Apps just for you ......
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=1200&h=350" alt="Software Development Banner" width="100%" style="border-radius: 12px; border: 1px solid #10b981;" />
